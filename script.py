@@ -1,0 +1,1 @@
+print('Es una locura que no tiene cura')
